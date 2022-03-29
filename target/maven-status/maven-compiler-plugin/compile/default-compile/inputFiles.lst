@@ -1,8 +1,0 @@
-/home/ntquoc/IdeaProjects/soap-calculator/src/main/java/com/quoc/application/config/WebServiceConfig.java
-/home/ntquoc/IdeaProjects/soap-calculator/src/main/java/com/quoc/application/Application.java
-/home/ntquoc/IdeaProjects/soap-calculator/src/main/java/com/quoc/application/endpoint/CalculatorEndpoint.java
-/home/ntquoc/IdeaProjects/soap-calculator/src/main/java/com/quoc/soap_calculator/ObjectFactory.java
-/home/ntquoc/IdeaProjects/soap-calculator/src/main/java/com/quoc/soap_calculator/package-info.java
-/home/ntquoc/IdeaProjects/soap-calculator/src/main/java/com/quoc/soap_calculator/CalculatorResponse.java
-/home/ntquoc/IdeaProjects/soap-calculator/src/main/java/com/quoc/soap_calculator/CalculatorRequest.java
-/home/ntquoc/IdeaProjects/soap-calculator/src/main/java/com/quoc/application/service/CalculatorService.java
