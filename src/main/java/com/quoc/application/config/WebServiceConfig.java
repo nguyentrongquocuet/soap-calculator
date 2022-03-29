@@ -20,7 +20,7 @@ public class WebServiceConfig extends WsConfigurerAdapter {
         MessageDispatcherServlet servlet = new MessageDispatcherServlet();
         servlet.setApplicationContext(context);
         servlet.setTransformWsdlLocations(true);
-        return new ServletRegistrationBean(servlet, "/soapWS/*");
+        return new ServletRegistrationBean(servlet, "/calculator/*");
     }
 
 
@@ -34,7 +34,7 @@ public class WebServiceConfig extends WsConfigurerAdapter {
 
         DefaultWsdl11Definition definition = new DefaultWsdl11Definition();
         definition.setSchema(userSchema);
-        definition.setLocationUri("/soapWS");
+        definition.setLocationUri("/calculator");
         definition.setPortTypeName("CalculatorServicePort");
         definition.setTargetNamespace("http://quoc.com/soap-calculator");
         return definition;
