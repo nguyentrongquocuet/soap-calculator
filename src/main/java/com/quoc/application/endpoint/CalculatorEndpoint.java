@@ -3,6 +3,7 @@ package com.quoc.application.endpoint;
 import com.quoc.application.service.CalculatorService;
 import com.quoc.soap_calculator.CalculatorRequest;
 import com.quoc.soap_calculator.CalculatorResponse;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.ws.server.endpoint.annotation.Endpoint;
 import org.springframework.ws.server.endpoint.annotation.PayloadRoot;
 import org.springframework.ws.server.endpoint.annotation.RequestPayload;
