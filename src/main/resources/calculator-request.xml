@@ -1,0 +1,11 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:us="http://quoc.com/soap-calculator">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <us:calculatorRequest>
+            <us:input1>41421</us:input1>
+            <us:operation>/e</us:operation>
+            <us:input2>0</us:input2>
+        </us:calculatorRequest>
+    </soapenv:Body>
+</soapenv:Envelope>

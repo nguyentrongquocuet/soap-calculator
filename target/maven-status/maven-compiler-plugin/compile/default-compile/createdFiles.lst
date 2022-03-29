@@ -1,0 +1,8 @@
+com/quoc/application/service/CalculatorService.class
+com/quoc/application/endpoint/CalculatorEndpoint.class
+com/quoc/soap_calculator/CalculatorResponse.class
+com/quoc/soap_calculator/package-info.class
+com/quoc/application/config/WebServiceConfig.class
+com/quoc/soap_calculator/CalculatorRequest.class
+com/quoc/application/Application.class
+com/quoc/soap_calculator/ObjectFactory.class
